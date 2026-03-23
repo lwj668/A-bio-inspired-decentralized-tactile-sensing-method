@@ -8,6 +8,10 @@ In this work, we propose a **bio-inspired decentralized tactile sensing framewor
 
 This framework enables a decentralized and biologically inspired mode of signal transmission and processing, where signals from individual tactile units are conveyed independently with extremely low mutual interference. The system maintains an error rate of only **0.01** even when **thousands of tactile units** are triggered simultaneously. In addition, we design a **highly scalable flexible modular tactile receptor** capable of pressure sensing and encoded signal generation, which can be conveniently assembled for large-area integration. Finally, nearly **100 modular tactile receptors** are integrated onto a humanoid robotic platform. Experimental results demonstrate robust **multi-point tactile sensing** and **object shape recognition**, highlighting the strong potential of this approach for next-generation intelligent humanoid robots.
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3ae7f60f-59cf-457b-a64f-c7b281d53bac" alt="图片 1" width="500">
+</div>
+
 ---
 
 ## Key Contributions
